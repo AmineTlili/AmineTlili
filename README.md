@@ -50,6 +50,8 @@ with a focus on <b>data-driven and decision-support solutions</b>.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmineTlili&theme=dark&hide_border=false&count_private=false" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AmineTlili&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=AmineTlili&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTlili&theme=dark&hide_border=false&layout=compact)
+
+
