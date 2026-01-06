@@ -1,10 +1,14 @@
-# 👋 Hi, I'm Amine
+<h1 align="center">👋 Hi, I'm Amine</h1>
 
-Junior Data Scientist with a double Master’s degree from **Université Gustave Eiffel** and  
-**École Supérieure Privée d’Ingénierie et de Technologie**.
+<p align="center">
+Junior Data Scientist with a <b>Master’s degree from Université Gustave Eiffel</b> and an  
+<b>Engineering degree in Computer Science (Data Science)</b> from <b>ESPRIT</b>.
+</p>
 
-I specialize in **data science, machine learning, and applied AI**, with a strong interest in building  
-**data-driven and decision-support solutions** with real business impact.
+<p align="center">
+I work on <b>data science, machine learning, and applied AI</b>,  
+with a focus on <b>data-driven and decision-support solutions</b>.
+</p>
 
 ---
 
@@ -16,33 +20,53 @@ I specialize in **data science, machine learning, and applied AI**, with a stron
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaminetlili/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aminetlili0319@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamedaminetlili/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aminetlili0319@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,sql"/>
+</p>
 
-**Data Science & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Data Science & AI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
 
-**Data & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+<b>Pandas · NumPy · Scikit-learn · XGBoost · NLP · Generative AI (RAG, LLM)</b>
+</p>
+
+### Data & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git"/>
+</p>
+
+<p align="center">
+<b>Spark / PySpark · Snowflake · Power BI</b>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AmineTlili&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=AmineTlili&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTlili&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AmineTlili&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=AmineTlili&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineTlili&theme=dark&hide_border=false&layout=compact" />
+</p>
