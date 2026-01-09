@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Amine</h1>
+<h1 align="center">👋 Hi, I'm Amine !</h1>
 
 Junior Data Scientist with a <b>Master’s degree from Université Gustave Eiffel</b> and an  
 <b>Engineering degree in Computer Science (Data Science)</b> from <b>ESPRIT</b>.
