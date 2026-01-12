@@ -11,7 +11,7 @@ with a focus on <b>data-driven and decision-support solutions</b>.
 ## 🧠 About Me
 - Background in Data Science, Machine Learning, and Generative AI  
 - Experience with data analysis, automation, and decision-support systems  
-- Interested in AI applications, forecasting, and explainable models  
+- Interested in AI applications, forecasting, and explainable models   
 
 ---
 
