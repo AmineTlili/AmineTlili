@@ -6,7 +6,7 @@ Junior Data Scientist with a <b>Master’s degree from Université Gustave Eiffe
 I work on <b>data science, machine learning, and applied AI</b>,  
 with a focus on <b>data-driven and decision-support solutions</b>.
 
----
+--- 
 
 ## 🧠 About Me
 - Background in Data Science, Machine Learning, and Generative AI  
